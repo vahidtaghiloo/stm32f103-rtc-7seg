@@ -1,7 +1,7 @@
 # stm32f103-rtc-7seg
 stm32f103 HAL rtc with 7-segment display
 
-![4digit-7segment](7segment-rtc.jpg)
+![4digit-7segment](7segment-rtc.gif)
 
 CommonCathode 7-segment
 
